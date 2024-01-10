@@ -1,4 +1,4 @@
 Disclaimer:
 
-I'm not sure what's wrong with my Checksum algorithm. I used wikipedia's BSD Checksum
+I gave it my best shot but I'm not sure what's wrong with my checksum algorithm. I used wikipedia's BSD Checksum
 instructions and cannot replicate the checksum-bytes provided.
